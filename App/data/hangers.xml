@@ -1,0 +1,11 @@
+<!-- 
+
+SCHEMA
+
+<element type="hanger" group="0" banGroups="1,2">
+
+	<asset path="/path.png" anchorX="0" anchorY="0"/>
+	
+</element>
+
+-->

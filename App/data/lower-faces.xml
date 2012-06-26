@@ -1,0 +1,16 @@
+<!-- 
+
+SCHEMA
+
+<element type="lowerFace" group="0" banGroups="1,2">
+
+	<asset path="/path.png" anchorX="0" anchorY="0"/>
+	
+	<points>
+		<point type="mouth" 	x="0" 	y="0"/>
+		<point type="neck" 		x="0" 	y="0"/>
+	</points>		
+	
+</element>
+
+-->

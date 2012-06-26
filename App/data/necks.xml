@@ -1,0 +1,15 @@
+<!-- 
+
+SCHEMA
+
+<element type="neck" group="0" banGroups="1,2">
+
+	<asset path="/path.png" anchorX="0" anchorY="0"/>
+	
+	<points>
+		<point type="hangar" 	x="0" 	y="0"/>
+	</points>		
+	
+</element>
+
+-->
