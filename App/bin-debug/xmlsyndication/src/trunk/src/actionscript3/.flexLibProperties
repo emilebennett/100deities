@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+  <includeClasses>
+    <classEntry path="com.adobe.xml.syndication.Namespaces"/>
+    <classEntry path="com.adobe.xml.syndication.NewsFeedElement"/>
+    <classEntry path="com.adobe.xml.syndication.NewsParser"/>
+    <classEntry path="com.adobe.xml.syndication.ParsingTools"/>
+    <classEntry path="com.adobe.xml.syndication.atom.Atom10"/>
+    <classEntry path="com.adobe.xml.syndication.atom.Author"/>
+    <classEntry path="com.adobe.xml.syndication.atom.Category"/>
+    <classEntry path="com.adobe.xml.syndication.atom.Content"/>
+    <classEntry path="com.adobe.xml.syndication.atom.Contributor"/>
+    <classEntry path="com.adobe.xml.syndication.atom.Entry"/>
+    <classEntry path="com.adobe.xml.syndication.atom.FeedData"/>
+    <classEntry path="com.adobe.xml.syndication.atom.Generator"/>
+    <classEntry path="com.adobe.xml.syndication.atom.Link"/>
+    <classEntry path="com.adobe.xml.syndication.atom.PersonTag"/>
+    <classEntry path="com.adobe.xml.syndication.atom.Rights"/>
+    <classEntry path="com.adobe.xml.syndication.atom.SubTitle"/>
+    <classEntry path="com.adobe.xml.syndication.atom.TextTag"/>
+    <classEntry path="com.adobe.xml.syndication.atom.Title"/>
+    <classEntry path="com.adobe.xml.syndication.generic.Atom10Feed"/>
+    <classEntry path="com.adobe.xml.syndication.generic.Atom10Item"/>
+    <classEntry path="com.adobe.xml.syndication.generic.Atom10Metadata"/>
+    <classEntry path="com.adobe.xml.syndication.generic.Author"/>
+    <classEntry path="com.adobe.xml.syndication.generic.Excerpt"/>
+    <classEntry path="com.adobe.xml.syndication.generic.FeedFactory"/>
+    <classEntry path="com.adobe.xml.syndication.generic.IFeed"/>
+    <classEntry path="com.adobe.xml.syndication.generic.IItem"/>
+    <classEntry path="com.adobe.xml.syndication.generic.IMetadata"/>
+    <classEntry path="com.adobe.xml.syndication.generic.Image"/>
+    <classEntry path="com.adobe.xml.syndication.generic.Media"/>
+    <classEntry path="com.adobe.xml.syndication.generic.RSS10Feed"/>
+    <classEntry path="com.adobe.xml.syndication.generic.RSS10Item"/>
+    <classEntry path="com.adobe.xml.syndication.generic.RSS10Metadata"/>
+    <classEntry path="com.adobe.xml.syndication.generic.RSS20Feed"/>
+    <classEntry path="com.adobe.xml.syndication.generic.RSS20Item"/>
+    <classEntry path="com.adobe.xml.syndication.generic.RSS20Metadata"/>
+    <classEntry path="com.adobe.xml.syndication.generic.UnknownFeedError"/>
+    <classEntry path="com.adobe.xml.syndication.rss.Category"/>
+    <classEntry path="com.adobe.xml.syndication.rss.Channel10"/>
+    <classEntry path="com.adobe.xml.syndication.rss.Channel20"/>
+    <classEntry path="com.adobe.xml.syndication.rss.Cloud"/>
+    <classEntry path="com.adobe.xml.syndication.rss.Enclosure"/>
+    <classEntry path="com.adobe.xml.syndication.rss.Guid"/>
+    <classEntry path="com.adobe.xml.syndication.rss.IChannel"/>
+    <classEntry path="com.adobe.xml.syndication.rss.IImage"/>
+    <classEntry path="com.adobe.xml.syndication.rss.IItem"/>
+    <classEntry path="com.adobe.xml.syndication.rss.IRSS"/>
+    <classEntry path="com.adobe.xml.syndication.rss.Image10"/>
+    <classEntry path="com.adobe.xml.syndication.rss.Image20"/>
+    <classEntry path="com.adobe.xml.syndication.rss.Item10"/>
+    <classEntry path="com.adobe.xml.syndication.rss.Item20"/>
+    <classEntry path="com.adobe.xml.syndication.rss.RSS10"/>
+    <classEntry path="com.adobe.xml.syndication.rss.RSS20"/>
+    <classEntry path="com.adobe.xml.syndication.rss.Source"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>

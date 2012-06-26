@@ -1,0 +1,16 @@
+<!-- 
+
+SCHEMA
+
+<element type="eye" group="0" banGroups="1,2">
+
+	<asset path="/path.png" anchorX="0" anchorY="0"/>
+	
+</element>
+
+-->
+
+
+<element type="eye" group="0" banGroups="1,2">
+	<asset path="/path.png" anchorX="0" anchorY="0"/>
+</element>

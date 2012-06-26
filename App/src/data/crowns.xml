@@ -1,0 +1,25 @@
+<!-- 
+
+SCHEMA
+
+<element type="crown" group="0" banGroups="1,2">
+
+	<asset path="/path.png" anchorX="0" anchorY="0"/>
+	
+	<points>
+		<point type="hanger" 	x="0" 	y="0"/>
+		<point type="halo" 		x="0" 	y="0"/>
+	</points>		
+	
+</element>
+
+-->
+
+
+<element type="crown" group="0" banGroups="1,2">
+	<asset path="/path.png" anchorX="0" anchorY="0"/>
+	<points>
+		<point type="hanger" 	x="0" 	y="0"/>
+		<point type="halo" 		x="0" 	y="0"/>
+	</points>		
+</element>
