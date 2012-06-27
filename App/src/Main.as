@@ -5,10 +5,15 @@ package
 	
 	import loaders.DataLoader;
 	
+	import view.Skeleton;
+	
 	[SWF(width="1000", height="1000", backgroundColor="#000000", frameRate="60")]
 	
 	public class Main extends Sprite
 	{
+		
+		private var skeleton:Skeleton;
+		
 		public function Main()
 		{
 			loadData();
@@ -25,7 +30,20 @@ package
 		
 		private function onDataLoaded( e:Event ):void
 		{
-			trace( "boom!" );
+			setupSkeleton();
+		}
+		
+		
+		private function setupSkeleton():void
+		{
+			skeleton = new Skeleton();
+			addChild( skeleton );
+		}
+		
+		
+		private function buildMask():void
+		{
+				
 		}
 	}
 }
