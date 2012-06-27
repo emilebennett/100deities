@@ -1,0 +1,41 @@
+
+
+
+<element type="upperFace" group="0" banGroups="1,2">
+	<asset path="/path.png" anchorX="0" anchorY="0"/>
+	<points>
+		<point type="eye" 		x="0" 	y="0"/>
+		<point type="eye" 		x="0" 	y="0"/>
+		<point type="nose" 		x="0"	y="0"/>
+		<point type="lowerFace" x="0" 	y="0"/>
+		<point type="crown" 	x="0" 	y="0"/>
+		<point type="crest" 	x="0" 	y="0"/>
+	</points>		
+</element>
+
+
+<element type="crown" group="0" banGroups="1,2">
+	<asset path="/path.png" anchorX="0" anchorY="0"/>
+	<points>
+		<point type="hanger" 	x="0" 	y="0"/>
+		<point type="halo" 		x="0" 	y="0"/>
+	</points>		
+</element>
+
+
+<element type="lowerFace" group="0" banGroups="1,2">
+	<asset path="/lowerfaces/face3.png" anchorX="0" anchorY="0"/>
+	<points>
+		<point type="mouth" 	x="0" 	y="0"/>
+		<point type="neck" 		x="0" 	y="0"/>
+	</points>		
+</element>
+
+
+<element type="neck" group="0" banGroups="1,2">
+	<asset path="/path.png" anchorX="0" anchorY="0"/>
+	<points>
+		<point type="hangar" 	x="0" 	y="0"/>
+	</points>		
+</element>
+
