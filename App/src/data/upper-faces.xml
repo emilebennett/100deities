@@ -20,7 +20,7 @@ SCHEMA
  -->
  
  
- <element type="upperFace" group="0" banGroups="1,2">
+<element type="upperFace" group="0" banGroups="1,2">
 	<asset path="/path.png" anchorX="0" anchorY="0"/>
 	<points>
 		<point type="eye" 		x="0" 	y="0"/>
@@ -31,3 +31,6 @@ SCHEMA
 		<point type="crest" 	x="0" 	y="0"/>
 	</points>		
 </element>
+
+
+
